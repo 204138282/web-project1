@@ -13,7 +13,7 @@ myImage.onclick = function() {
   }
 };
 
-//button
+//button测试123
 var myButton = document.querySelector("button");
 
 function setUserName() {
